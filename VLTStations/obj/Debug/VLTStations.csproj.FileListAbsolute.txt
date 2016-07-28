@@ -1,0 +1,105 @@
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\App.xbf
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\Controllers\ListStationsVLT.xbf
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\MainPage.xbf
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\VLTStations.xr.xml
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\VLTStations.exe
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\VLTStations.pdb
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\resources.pri
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\AppxManifest.xml
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\VLTStations.build.appxrecipe
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\VLTStations.Core.dll
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\VLTStations.Core.pdb
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\VLTStations.csprojResolveAssemblyReference.cache
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\App.g.i.cs
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\App.g.cs
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\Controllers\ListStationsVLT.g.i.cs
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\Controllers\ListStationsVLT.g.cs
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\MainPage.g.i.cs
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\MainPage.g.cs
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\App.xaml
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\App.xbf
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\Controllers\ListStationsVLT.xaml
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\MainPage.xaml
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\Controllers\ListStationsVLT.xbf
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\MainPage.xbf
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\VLTStations.exe
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\VLTStations.pdb
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\VLTStations.csproj.GenerateResource.Cache
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\priconfig.xml
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\layout.resfiles
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\resources.resfiles
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\pri.resfiles
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\qualifiers.txt
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations\obj\Debug\ProjectArchitectures.txt
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\App.xbf
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Controllers\ListStationsVLT.xbf
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\MainPage.xbf
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\VLTStations.xr.xml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\VLTStations.exe
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\VLTStations.pdb
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\resources.pri
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\AppxManifest.xml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\VLTStations.build.appxrecipe
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Microsoft.Practices.Prism.Mvvm.Phone.dll
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.dll
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\VLTStations.Core.dll
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\VLTStations.Core.pdb
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Microsoft.Practices.Prism.StoreApps.pri
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\VLTStations.csprojResolveAssemblyReference.cache
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\App.g.i.cs
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\App.g.cs
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Controllers\ListStationsVLT.g.i.cs
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Controllers\ListStationsVLT.g.cs
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\MainPage.g.i.cs
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\MainPage.g.cs
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\App.xaml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Controllers\ListStationsVLT.xaml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\MainPage.xaml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\App.xbf
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Controllers\ListStationsVLT.xbf
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\MainPage.xbf
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\XamlSaveStateFile.xml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\VLTStations.exe
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\VLTStations.pdb
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Microsoft.Practices.Prism.Mvvm\en\Microsoft.Practices.Prism.Mvvm.Properties.Resources.resw
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\VLTStations.csproj.GenerateResource.Cache
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Microsoft.Practices.Prism.Mvvm.pri
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Microsoft.Practices.Prism.Mvvm\qualifiers.txt
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\priconfig.xml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\priconfig.xml.intermediate
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\layout.resfiles
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\layout.resfiles.intermediate
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\resources.resfiles
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\resources.resfiles.intermediate
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\pri.resfiles
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\pri.resfiles.intermediate
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\qualifiers.txt
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\qualifiers.txt.intermediate
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Microsoft.Practices.Prism.StoreApps.pri.xml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri.xml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\ProjectArchitectures.txt
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Style\AppStyle.g.i.cs
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Style\AppStyle.g.cs
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\bin\Debug\Style\AppStyle.xbf
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Style\AppStyle.xaml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\obj\Debug\Style\AppStyle.xbf

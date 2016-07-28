@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\mobile\documents\visual studio 2015\projects\vltstations\vltstations\obj\debug\intermediatexaml\vltstations.exe" HashGuid="8097b58d-641a-0e13-cbba-9fc2ce665153" />
+    <ReferenceAssembly PathName="c:\users\agrad\pictures\pessoal\vltstations\packages\prism.mvvm.1.1.1\lib\wpa81\microsoft.practices.prism.mvvm.dll" HashGuid="cbdd458f-3f7b-91dd-175a-6fbe0d8f860e" />
+    <ReferenceAssembly PathName="c:\users\agrad\pictures\pessoal\vltstations\packages\prism.mvvm.1.1.1\lib\wpa81\microsoft.practices.prism.mvvm.phone.dll" HashGuid="347692ae-d3bb-41c8-00a0-1222d3d82e87" />
+    <ReferenceAssembly PathName="c:\users\agrad\pictures\pessoal\vltstations\packages\prism.mvvm.1.1.1\lib\wpa81\microsoft.practices.prism.sharedinterfaces.dll" HashGuid="77ddb96d-234e-bbe6-7043-530fe79bc489" />
+    <ReferenceAssembly PathName="c:\users\agrad\pictures\pessoal\vltstations\packages\prism.storeapps.2.0.0\lib\wpa81\microsoft.practices.prism.storeapps.dll" HashGuid="480782f1-e4b6-714d-0927-945a03634ad1" />
+    <ReferenceAssembly PathName="c:\users\agrad\pictures\pessoal\vltstations\packages\prism.storeapps.2.0.0\lib\wpa81\microsoft.practices.prism.storeapps.phone.dll" HashGuid="aa6e2f7a-71df-e1ca-7524-7ca1d4a1bf08" />
+    <ReferenceAssembly PathName="c:\users\agrad\pictures\pessoal\vltstations\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="c:\users\agrad\pictures\pessoal\vltstations\vltstations.core\bin\debug\vltstations.core.dll" HashGuid="f4e59e8e-5d8b-3c00-df82-440bb5dade8c" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

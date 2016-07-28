@@ -1,0 +1,14 @@
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations.Core\obj\Debug\VLTStations.Core.csprojResolveAssemblyReference.cache
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations.Core\bin\Debug\VLTStations.Core.dll
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations.Core\bin\Debug\VLTStations.Core.pdb
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations.Core\obj\Debug\VLTStations.Core.dll
+C:\Users\Mobile\Documents\Visual Studio 2015\Projects\VLTStations\VLTStations.Core\obj\Debug\VLTStations.Core.pdb
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations.Core\bin\Debug\VLTStations.Core.dll
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations.Core\bin\Debug\VLTStations.Core.pdb
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations.Core\obj\Debug\VLTStations.Core.csprojResolveAssemblyReference.cache
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations.Core\obj\Debug\VLTStations.Core.dll
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations.Core\obj\Debug\VLTStations.Core.pdb

@@ -1,0 +1,2 @@
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations.Core\VLTStations.Core.csproj;neutral
+C:\Users\agrad\Pictures\Pessoal\VLTStations\VLTStations\VLTStations.csproj;neutral
